@@ -74,8 +74,12 @@ não
 sim,especificamente os códigos referentes aos sons.
 
 22.	O código contém comentários? Existem partes que necessitam de mais comentários?
+Sim. Não, os comentarios existentes são suficientes para o entendimento geral do projeto.
+
 23.	Padrões de projeto e padrões arquiteturais podem ser identificados a partir do código? Quais?
+
 24.	Como foi obtido o código fonte do projeto?
+Por meio do GitHub disponibilizado pela professora Jenifer Vieira.
 
 25.	O que foi necessário instalar no seu sistema para fazer o projeto compilar/ rodar? A documentação disponibilizada pelo projeto foi suficiente?
 O projeto rodou sem a necessidade de instalar programas adicionais. 
