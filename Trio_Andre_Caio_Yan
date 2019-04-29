@@ -62,12 +62,14 @@ Não.
 IV.	Caracterização Técnica
 
 18.	Quantos desenvolvedores participaram do projeto nos últimos 6 meses? E desde o início?
+Apenas um desenvolvedor.
 19.	Qual a política de lançamento de versões?
 OBS: A equipe sugere que após essa pergunta, o questionário seja alterado para contemplar a seguinte pergunta: - Existe alguma política de contribuição? Descreva-a.
 20.	O projeto possui uma suíte de testes automatizados?
+não
 
 21.	Existem partes do código fonte que são problemáticas? Justifique.
-
+sim,especificamente os códigos referentes aos sons.
 22.	O código contém comentários? Existem partes que necessitam de mais comentários?
 23.	Padrões de projeto e padrões arquiteturais podem ser identificados a partir do código? Quais?
 24.	Como foi obtido o código fonte do projeto?
