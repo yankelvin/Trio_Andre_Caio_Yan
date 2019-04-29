@@ -1,0 +1,76 @@
+
+Disciplina: F113107 – Engenharia de Software.
+Professora: Jenifer Vieira Toledo Tavares.
+Equipe: Andre Candido, Caio Ferraz e Yan Kelvin
+
+Conhecendo o Projeto OSS para Contribuição
+
+
+I.	Descrição do Projeto
+1.	Nome do Projeto: Champs Da Galáxia
+
+2.	Website: https://github.com/rodriguesfas/Champs_da_Galaxia
+
+3.	Descrição: O projeto Champs da Galáxia é um jogo de gênero espacial com foco em batalha espacial. No jogo é possível controlar uma nave e destruir os inimigos com o objetivo de fazer o máximo de pontos (que são ganhos quando um inimigo é destruído) e passar de missão.
+
+II.	Reconhecimento inicial
+4.	Há quanto tempo o projeto existe? Descreva brevemente o histórico do projeto.
+O projeto começou a ser desenvolvido em dezembro de 2013, tendo a sua adição ao github como projeto open source em 29 de abril de 2014. E então foi lançada uma versão beta em 2 de maio de 2014.
+
+5.	Qual a licença do projeto?
+A licença do projeto é a “The MIT License (MIT)”, o que dá total autoria para uso, copia, modificação, publicação, mesclagem, distribuição, sublicenciar, e/ou venda de copias do software com a condição de incluir o aviso de copyright em todas as cópias ou partes substanciais do software.
+
+6.	Qual o tamanho do projeto? Número de linhas de código? Número de classes?
+O jogo é composto por 4 pacotes e a classe principal chega a 1239 linhas com os comentários, no total há 16 classes:
+  1.	AddItens: Tem apenas 1 classe: AddVida;
+  2.	Efeitos sonoros: Tem 9 classes: MusicaCenario, SomAddVida, SomColisao, SomDesparo, SomExplosao, SomFimJogo, SomMissaoCompleta, SomNaoAbatidos, SomZeroVida;
+  3.	Game: Tem 5 classes: Explosao, GameContainer (principal), Inimigo, Nave, Tiro1;
+  4.	TempoFase: Tem 1 classe: Temporalizador.
+
+7.	O tamanho do projeto tem crescido nas últimas versões?
+O projeto permanece do mesmo tamanho após a verão beta. O último commit feito no github foi feito em 25 de julho de 2015, porém não foi alterado nada no projeto, apenas nos textos de leitura e licença do projeto.
+
+8.	Existe atividade recente no projeto?
+Não foram encontradas atividades recentes ao projeto.
+
+9.	Existe colaboração de empresas para o projeto? Existem mais desenvolvedores independentes do que funcionários de empresas?
+Não existem colaborações de empresas para o projeto. O projeto conta com apenas um contribuídor individual desde o início do projeto.
+
+10.	Quais são as tecnologias (linguagem, bibliotecas, bancos de dados) utilizadas pelo software?
+A linguagem de programação utilizada foi o Java e como biblioteca de terceiros foi utilizado o JZOOm para reprodução de sons e efeitos sonoros do jogo. 
+
+III.	Identificação de Tarefas
+
+11.	Onde fica o repositório de código fonte? Qual ferramenta de controle de versão é utilizada?
+O repositório utilizado para o projeto foi o GitHub.
+
+12.	Onde fica o repositório de bugs?
+Não foi encontrado repositório de bugs.
+
+13.	Existe documentação para ajudar novos colaboradores? Que tipo de informação está disponível?
+Dentro do projeto há um arquivo odt com algumas informações sobre o jogo e ao final há uma chamada com incentivo para contribuição do projeto. O código está todo comentado como forma de documentação para ajudar novos colaboradores.
+
+14.	Existem bugs marcados como fáceis de serem resolvidos?
+Não.
+
+15.	O código fonte contém listas de tarefas?
+Não.
+
+16.	Existem comentários contendo TODO, FIXME, etc no código-fonte? Que tipo de necessidade estão colocadas nesses comentários?
+17.	Indique 5 tarefas que potencialmente podem ser realizadas até o final da disciplina. Estas tarefas podem ser relacionadas a resolução de bugs, implementação de funcionalidades, tradução, testes, revisão do código-fonte (i.e. arrumar código que não siga os padrões de estilo documentos do projeto), reportar bugs, etc. Outros tipos de tarefas podem ser realizados desde que aprovados pelos instrutores: fale com a gente.
+
+IV.	Caracterização Técnica
+
+18.	Quantos desenvolvedores participaram do projeto nos últimos 6 meses? E desde o início?
+19.	Qual a política de lançamento de versões?
+OBS: A equipe sugere que após essa pergunta, o questionário seja alterado para contemplar a seguinte pergunta: - Existe alguma política de contribuição? Descreva-a.
+20.	O projeto possui uma suíte de testes automatizados?
+
+21.	Existem partes do código fonte que são problemáticas? Justifique.
+
+22.	O código contém comentários? Existem partes que necessitam de mais comentários?
+23.	Padrões de projeto e padrões arquiteturais podem ser identificados a partir do código? Quais?
+24.	Como foi obtido o código fonte do projeto?
+
+25.	O que foi necessário instalar no seu sistema para fazer o projeto compilar/ rodar? A documentação disponibilizada pelo projeto foi suficiente?
+
