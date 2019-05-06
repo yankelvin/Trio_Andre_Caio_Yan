@@ -57,6 +57,7 @@ Não.
 Não.
 
 16.	Existem comentários contendo TODO, FIXME, etc no código-fonte? Que tipo de necessidade estão colocadas nesses comentários?
+Não.
 
 17.	Indique 5 tarefas que potencialmente podem ser realizadas até o final da disciplina. Estas tarefas podem ser relacionadas a resolução de bugs, implementação de funcionalidades, tradução, testes, revisão do código-fonte (i.e. arrumar código que não siga os padrões de estilo documentos do projeto), reportar bugs, etc. Outros tipos de tarefas podem ser realizados desde que aprovados pelos instrutores: fale com a gente.
 
@@ -67,11 +68,12 @@ Apenas um desenvolvedor, O Rodrigues Fas.
 
 19.	Qual a política de lançamento de versões?
 OBS: A equipe sugere que após essa pergunta, o questionário seja alterado para contemplar a seguinte pergunta: - Existe alguma política de contribuição? Descreva-a.
+
 20.	O projeto possui uma suíte de testes automatizados?
-não
+Não
 
 21.	Existem partes do código fonte que são problemáticas? Justifique.
-sim,especificamente os códigos referentes aos sons.
+Sim,especificamente os códigos referentes aos sons.
 
 22.	O código contém comentários? Existem partes que necessitam de mais comentários?
 Sim. Não, os comentarios existentes são suficientes para o entendimento geral do projeto.
